@@ -1,9 +1,3 @@
-### Hi there 👋
-
-Sure, here's a template you can use for your README file on GitHub:
-
----
-
 # Yousef Hesham - Mechatronics Engineer
 
 ## About Me
@@ -29,5 +23,4 @@ During my time in college, I've worked on several projects, including:
 - German (A2)
 
 ##Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yousef112=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefh112)](https://github.com/anuraghazra/github-readme-stats)
