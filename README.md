@@ -23,9 +23,11 @@ During my time in college, I've worked on several projects, including:
 5. Civil Protection Robot
 6. Four-Wheeled Robot Simulation
 
-
 ## Languages
 - Arabic (Native)
 - English (B1)
 - German (A2)
+
+##Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yousef112=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
