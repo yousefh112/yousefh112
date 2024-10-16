@@ -23,12 +23,6 @@ I'm a **Mechatronics Engineering** passionate about **robotics**, **autonomous s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yousef-hesham112](https://www.linkedin.com/in/yousef-h-0a56b8169/))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefh112)
 
-Feel free to explore my repositories, contribute, or just connect!  
-**Let's build something amazing together.**
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefh112&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefh112)](https://github.com/anuraghazra/github-readme-stats)
 
