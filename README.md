@@ -12,13 +12,14 @@ I'm a **Mechatronics Engineering** passionate about **robotics**, **autonomous s
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefh112&layout=compact&theme=radical)](https://github.com/yousefh112)
 
 ### 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF3333?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-303030?style=for-the-badge
+![SLAM](https://img.shields.io/badge/SLAM-303030?style=for-the-badge)
 
 
 ### 🌐 Connect with me:
